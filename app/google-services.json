@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978171843832",
+    "project_id": "cutm-note",
+    "storage_bucket": "cutm-note.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978171843832:android:686a5caf8e119c1efe970d",
+        "android_client_info": {
+          "package_name": "com.cutm.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978171843832-90ivjg911sdfktqdc892t2knsvtp86u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuwyY5D1tki9-4iwQ7V5VdVDNyjJfl7BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978171843832-90ivjg911sdfktqdc892t2knsvtp86u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

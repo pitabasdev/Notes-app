@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/PITABAS/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.156" />
+        <entry key="..\:/Users/PITABAS/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/ic_baseline_done_24.xml" value="0.156" />
+        <entry key="..\:/Users/PITABAS/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.156" />
+        <entry key="..\:/Users/PITABAS/AndroidStudioProjects/NotesApp/app/src/main/res/drawable/rounded_corner.xml" value="0.289" />
+        <entry key="..\:/Users/PITABAS/AndroidStudioProjects/NotesApp/app/src/main/res/layout/activity_create_account.xml" value="0.337037037037037" />
+        <entry key="..\:/Users/PITABAS/AndroidStudioProjects/NotesApp/app/src/main/res/layout/activity_login.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/PITABAS/AndroidStudioProjects/NotesApp/app/src/main/res/layout/activity_main.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/PITABAS/AndroidStudioProjects/NotesApp/app/src/main/res/layout/activity_note_details.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/PITABAS/AndroidStudioProjects/NotesApp/app/src/main/res/layout/activity_note_details2.xml" value="0.24351851851851852" />
+        <entry key="..\:/Users/PITABAS/AndroidStudioProjects/NotesApp/app/src/main/res/layout/activity_splash.xml" value="0.34479166666666666" />
+        <entry key="..\:/Users/PITABAS/AndroidStudioProjects/NotesApp/app/src/main/res/layout/activity_utility.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/PITABAS/AndroidStudioProjects/NotesApp/app/src/main/res/layout/activity_utility2.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/PITABAS/AndroidStudioProjects/NotesApp/app/src/main/res/layout/recycler_note_item.xml" value="0.16770833333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
