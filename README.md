@@ -17,7 +17,7 @@ Welcome to the Note App! This is a simple yet powerful note-taking application b
 
 ## Live Demo
 
-Check out my portfolio [here](https://play.google.com/store/apps/details?id=com.cutm.notesapp).
+Check out Note App [here](https://play.google.com/store/apps/details?id=com.cutm.notesapp).
 ## Installation
 
 1. Clone or download the project from [GitHub Repository](https://github.com/pitabasdev/Notes-app).
