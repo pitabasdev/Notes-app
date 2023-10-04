@@ -48,7 +48,7 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## Support and Contact
 
-If you encounter any issues or have questions, feel free to contact us at your_email@example.com.
+If you encounter any issues or have questions, feel free to contact us at pitabas.pradhan834@gmail.com.
 
 
 ## Acknowledgments
