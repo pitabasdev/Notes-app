@@ -36,6 +36,8 @@ Check out Note App [here](https://play.google.com/store/apps/details?id=com.cutm
 
 ![1notes](https://github.com/pitabasdev/portfolio-profile/assets/85897297/b8366275-0bf9-4f48-a0f4-67bc75096851)
 ![2notes](https://github.com/pitabasdev/portfolio-profile/assets/85897297/34906c2c-55ff-491a-ba6f-b96fe8ac7a7a)
+![image](https://github.com/pitabasdev/portfolio-profile/assets/85897297/8f7af55c-f446-4779-8a6f-0d0047e344c4)
+![image](https://github.com/pitabasdev/portfolio-profile/assets/85897297/0998e6ed-0aee-474e-95af-72f75b05378f)
 
 ## Contributing
 
